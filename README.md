@@ -91,12 +91,12 @@ Tras cada ronda, hay una breve pausa que simula el tiempo de minería antes de c
 
 ## Juego de pruebas - Caso normal
 #### Iteracion : 1 
-![Pruebas1](./Resources/Chapter3normal.png)
+![Pruebas1](./Resources/chapter3normal.png)
 #### Iteracion : 2
-![Pruebas2](./Resources/Chapter3normal2.png)
+![Pruebas2](./Resources/chapter3normal2.png)
 #### Iteracion : 3
-![Pruebas3](./Resources/Chapter3normal3.png)
+![Pruebas3](./Resources/chapter3normal3.png)
 #### Iteracion : 4
-![Pruebas3](./Resources/Chapter3normal4.png)
+![Pruebas3](./Resources/chapter3normal4.png)
 #### Iteracion : 5
-![Pruebas3](./Resources/Chapter3normal5.png)
+![Pruebas3](./Resources/chapter3normal5.png)
