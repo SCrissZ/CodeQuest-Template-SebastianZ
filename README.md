@@ -2,7 +2,7 @@
 
 ## Chapter 1. El camino del mago aprendiendo 🧙‍♀️
 En este primer capítulo de CodeQuest, donde el jugador inicia  su aventura como un aprendiz de mago.
-Al iniciar, el programa muestra un menú con varias opciones, pero laen este caso hablaremos de la primera opción "Train your wizard".
+Al iniciar, el programa muestra un menú con varias opciones, pero en este caso hablaremos de la primera opción "Train your wizard".
 
 Cuando eliges entrenar, el juego te pide que escribas tu nombre como si fueras tú mismo el personaje y después simula varios días de práctica mágica.
 Durante ese tiempo, el mago va ganando poder poco a poco y al final según lo que haya entrenado, recibe un título especial.
